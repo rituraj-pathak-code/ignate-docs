@@ -12,12 +12,8 @@ This workflow validates whether the **requested date** (passed as a query parame
 
 ## Workflow Diagram
 ![Workflow Diagram](images/date_validation.png)
-<video width="600" controls>
-  <source src="../videos/unlinkrepo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[🎥 Watch the video](../videos/unlinkrepo.mp4)
 
----
 
 ## Node Details  
 
